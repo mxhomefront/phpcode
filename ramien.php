@@ -1,8 +1,10 @@
 <?PHP
 
-print "this is PHP";
-print "modify the master";
-print "modify the local";
-print "4th time";
+print "Modify";
+print "git status";
+print "git add filename";
+print "git commit -m "commit" ";
+print "git status";
+print "git push";
 
 >
